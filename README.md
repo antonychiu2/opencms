@@ -1,5 +1,5 @@
 <h1 align="center">OpenCms</h1>
-
+ 
 <p align="center">
   <a href="http://opencms.org/" alt="OpenCms">
     <img src="https://www.alkacon.com/export/shared/web/logos/opencms-logo.svg" alt="OpenCms logo" width="340" height="84">
