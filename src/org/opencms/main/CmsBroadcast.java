@@ -91,8 +91,8 @@ public class CmsBroadcast implements Cloneable {
      *
      * @param sender the sender of the broadcast
      * @param message the message to send
-     * @param repeat true if message shoul be repeated
-     * @deprecated use the constructors with the content mode instead
+     * @param repeat true if message shoul be repeated 
+     * @deprecated use the constructors with the content mode instead 
      */
     @Deprecated
     public CmsBroadcast(CmsUser sender, String message, boolean repeat) {
