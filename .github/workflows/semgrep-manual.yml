@@ -4,7 +4,7 @@
 # Secrets in use (add your missing ones):
 # MOBB_API_TOKEN - your mobb user credentials (automatically set if you forked this repo via the Mobb app)
 
-name: "Mobb/Semgrep from PR"
+name: "Mobb/Semgrep Manual Run"
 
 on:
   workflow_dispatch:
